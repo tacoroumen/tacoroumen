@@ -1,5 +1,5 @@
 ## Hi 👋
-**I'm Taco, an IT student from the netherlands i will be posting all my past and future projects here.**  
+**I'm Taco, an IT student from the netherlands. I will be posting all my past and future projects here.**  
 
 Portfolio **[familieroumen.com](https://familieroumen.com)**  
 Email **[taco@familieroumen.com](mailto:taco@familieroumen.com)**  
