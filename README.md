@@ -4,4 +4,4 @@
 Portfolio **[familieroumen.com](https://familieroumen.com)**  
 Email **[taco@familieroumen.com](mailto:taco@familieroumen.com)**  
 Linkedin **[linkedin.com/in/tacoroumen](https://linkedin.com/in/tacoroumen)**  
-Discord **Tortar#8294**
+Discord **tortar**
