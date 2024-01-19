@@ -21,7 +21,7 @@
 -->
 
 ## 📫 How to reach me
-- [About me](https://tacoroumen.nl)
+- [About me](https://tortar.me)
 - [Email](mailto:taco@tacoroumen.nl)
 - [LinkedIn](https://linkedin.com/in/tacoroumen)
 - [Twitter](https://twitter.com/tacoroumen)
