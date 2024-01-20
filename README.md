@@ -30,14 +30,13 @@
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tacoroumen&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://githubstats.tacoroumen.nl/api?username=tacoroumen&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacoroumen&layout=pie&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://githubstats.tacoroumen.nl/api/top-langs?username=tacoroumen&layout=pie&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--## WakaTime Stats
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tacoroumen)](https://github.com/anuraghazra/github-readme-stats)
+## WakaTime Stats
+[![WakaTime stats](https://githubstats.tacoroumen.nl/api/wakatime?username=tacoroumen&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
--->
 
 <!-- ## 📚 Latest Blog Posts
 
