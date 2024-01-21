@@ -35,8 +35,9 @@
 
 [![Top Langs](https://githubstats.tacoroumen.nl/api/top-langs?username=tacoroumen&layout=pie&theme=github_dark)](https://github.com/tacoroumen/github-readme-stats)
 
-## WakaTime Stats
+## 📈 WakaTime Stats
 [![WakaTime stats](https://githubstats.tacoroumen.nl/api/wakatime?username=tacoroumen&theme=github_dark)](https://github.com/tacoroumen/github-readme-stats)
+
 
 
 <!-- ## 📚 Latest Blog Posts
