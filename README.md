@@ -27,6 +27,7 @@
 - [LinkedIn](https://linkedin.com/in/tacoroumen)
 - [Twitter](https://twitter.com/tacoroumen)
 - [Telegram](https://t.me/TacoRoumen)
+- [Signal](https://signal.me/#eu/KszzRemqbggLsa_ZwBPzgA1TqoUhh0GZxQ8lVYnnm-_TttJLpKRPQrXQWp0PDMSl)
 - Discord: tortar
 
 ## 📈 GitHub Stats
