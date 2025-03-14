@@ -37,9 +37,9 @@
 [![Top Langs](https://githubstats.tacoroumen.nl/api/top-langs?username=tacoroumen&layout=pie&theme=github_dark)](https://github.com/tacoroumen/github-readme-stats)
 
 ## 📈 WakaTime Stats
-[![wakatime total](https://wakatime.com/badge/user/018d2767-b95e-4758-82e0-ae76bd73a55b.svg)](https://wakatime.com/@018d2767-b95e-4758-82e0-ae76bd73a55b)
-<br/>
-[![WakaTime stats](https://githubstats.tacoroumen.nl/api/wakatime?username=tacoroumen&theme=github_dark)](https://github.com/tacoroumen/github-readme-stats)
+#[![wakatime total](https://wakatime.com/badge/user/018d2767-b95e-4758-82e0-ae76bd73a55b.svg)](https://wakatime.com/@018d2767-b95e-4758-82e0-ae76bd73a55b)
+#<br/>
+#[![WakaTime stats](https://githubstats.tacoroumen.nl/api/wakatime?username=tacoroumen&theme=github_dark)](https://github.com/tacoroumen/github-readme-stats)
 
 
 
