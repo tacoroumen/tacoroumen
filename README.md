@@ -1,5 +1,5 @@
 # Hi 👋
-**I'm Taco, a passionate IT Student from The Netherlands. Welcome to my GitHub profile!.**  
+**I'm Taco, an IT Student from The Netherlands. Welcome to my GitHub profile!.**  
 
 <!-- ## 🔧 Technologies & Tools
 
